@@ -3,6 +3,9 @@ beautifulsoup4
 lxml
 selenium
 webdriver-manager
+anthropic>=0.40.0
+exa-py>=1.0.0
+python-dotenv
 
 
 

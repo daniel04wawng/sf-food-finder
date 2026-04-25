@@ -13,11 +13,26 @@ brunch
 noodle
 tacos
 burritos
+sushi
+ramen
 sandwiches
+bagels
+donuts
+pastries
+cookies
+coffee
+espresso
 beer
 wine
+cocktails
+drinks
+free drinks
 happy hour
 food truck
-free drinks
+buffet
+bbq
+boba
+bubble tea
+ice cream
 complimentary
 hackathon

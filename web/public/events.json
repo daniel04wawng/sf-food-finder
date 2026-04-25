@@ -1,0 +1,728 @@
+[
+  {
+    "id": "eventbrite-7a2a85453e",
+    "source": "Eventbrite",
+    "title": "Weekend Drag Brunches @ Beaux in the Castro",
+    "venue": "Beaux",
+    "lat": 37.76358929999999,
+    "lng": -122.4342761,
+    "start": "2024-02-10T12:30:00-08:00",
+    "end": "2027-01-03T16:30:00-08:00",
+    "url": "https://www.eventbrite.com/e/weekend-drag-brunches-beaux-in-the-castro-tickets-827581999037",
+    "foodTypes": [
+      "🥞 brunch"
+    ],
+    "keywords": [
+      "brunch"
+    ],
+    "description": "Join us every Saturday &amp; Sunday @ 12:30 &amp; 2:30pm for  fun-filled drag brunch shows! (Please see event info below before booking)"
+  },
+  {
+    "id": "eventbrite-41edac3b2b",
+    "source": "Eventbrite",
+    "title": "Bernal Chess Club Game Day",
+    "venue": "Progressive Grounds",
+    "lat": 37.7390371,
+    "lng": -122.4176918,
+    "start": "2024-10-12T15:00:00-07:00",
+    "end": "2026-10-31T18:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/bernal-chess-club-game-day-tickets-1043265875317",
+    "foodTypes": [
+      "🍱 food"
+    ],
+    "keywords": [
+      "food"
+    ],
+    "description": "Join us for chess games and good food at Progressive Grounds! All levels and ages are welcome."
+  },
+  {
+    "id": "eventbrite-a5c1649c93",
+    "source": "Eventbrite",
+    "title": "Chess Night at Barebottle Brewery",
+    "venue": "Barebottle Brewing Company",
+    "lat": 37.7398597,
+    "lng": -122.4091179,
+    "start": "2024-10-14T17:00:00-07:00",
+    "end": "2026-10-26T20:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/chess-night-at-barebottle-brewery-tickets-1043269365757",
+    "foodTypes": [
+      "🍺 beer"
+    ],
+    "keywords": [
+      "beer"
+    ],
+    "description": "Join us for a fun night of chess games and craft beer at Barebottle Brewery! All ages and levels are welcome."
+  },
+  {
+    "id": "eventbrite-b777041ee0",
+    "source": "Eventbrite",
+    "title": "Try Our Space: Coworking Open House + Coffee at 50 California",
+    "venue": "50 California Street",
+    "lat": 37.7940487,
+    "lng": -122.3973037,
+    "start": "2025-07-16T10:00:00-07:00",
+    "end": "2026-12-30T14:00:00-08:00",
+    "url": "https://www.eventbrite.com/e/try-our-space-coworking-open-house-coffee-at-50-california-tickets-1481828672449",
+    "foodTypes": [
+      "☕ coffee"
+    ],
+    "keywords": [
+      "coffee"
+    ],
+    "description": "Looking for a productive and professional coworking space in the heart of San Francisco?\nJoin us every week at Regus â 50 California Street"
+  },
+  {
+    "id": "eventbrite-2752dfd746",
+    "source": "Eventbrite",
+    "title": "Free Coffee and Co-working",
+    "venue": "101 Montgomery St",
+    "lat": 37.7946507,
+    "lng": -122.3998262,
+    "start": "2025-09-17T10:00:00-07:00",
+    "end": "2026-12-30T14:00:00-08:00",
+    "url": "https://www.eventbrite.com/e/free-coffee-and-co-working-tickets-1685339699409",
+    "foodTypes": [
+      "☕ coffee"
+    ],
+    "keywords": [
+      "coffee"
+    ],
+    "description": "Join us for a chill day of free coffee, co-working, and good vibes - perfect for networking and getting work done!"
+  },
+  {
+    "id": "eventbrite-6d81186d9e",
+    "source": "Eventbrite",
+    "title": "FREE COFFEE & COWORKING",
+    "venue": "95 3rd St fl 2",
+    "lat": 37.7866382,
+    "lng": -122.4021284,
+    "start": "2025-10-29T10:00:00-07:00",
+    "end": "2027-07-07T14:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/free-coffee-coworking-tickets-1419683815509",
+    "foodTypes": [
+      "☕ coffee"
+    ],
+    "keywords": [
+      "coffee"
+    ],
+    "description": "Come join us for a day of free coffee and coworking, where you can network, collaborate, and get stuff done in a fun and relaxed environment"
+  },
+  {
+    "id": "eventbrite-655f0b64b3",
+    "source": "Eventbrite",
+    "title": "Coffee & Connect - Open House W/ Regus @ 505 Montgomery",
+    "venue": "Regus",
+    "lat": 37.7939424,
+    "lng": -122.403331,
+    "start": "2025-11-06T10:00:00-08:00",
+    "end": "2026-12-31T14:00:00-08:00",
+    "url": "https://www.eventbrite.com/e/coffee-connect-open-house-w-regus-505-montgomery-tickets-1867498431079",
+    "foodTypes": [
+      "☕ coffee"
+    ],
+    "keywords": [
+      "coffee"
+    ],
+    "description": "Get ready to mingle over coffee, connect with new faces, and explore the casual, yet professional atmosphere at our Open House event!"
+  },
+  {
+    "id": "eventbrite-65515f5fdd",
+    "source": "Eventbrite",
+    "title": "Craft n' Chill",
+    "venue": "Decentered Arts Studio",
+    "lat": 37.7753209,
+    "lng": -122.4091738,
+    "start": "2025-12-01T18:00:00-08:00",
+    "end": "2026-12-21T21:00:00-08:00",
+    "url": "https://www.eventbrite.com/e/craft-n-chill-tickets-1974937901427",
+    "foodTypes": [
+      "🍽️ dinner"
+    ],
+    "keywords": [
+      "dinner"
+    ],
+    "description": "Come use your hands and get crafty! Free bi-weekly, some supplies provided or BYO! All projects welcome or just come hang."
+  },
+  {
+    "id": "eventbrite-c129217ba0",
+    "source": "Eventbrite",
+    "title": "Coffee Hour with Legacy Real Estate",
+    "venue": "Bello Coffee & Tea",
+    "lat": 37.73380179999999,
+    "lng": -122.4339395,
+    "start": "2026-02-23T11:00:00-08:00",
+    "end": "2026-09-28T12:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/coffee-hour-with-legacy-real-estate-tickets-1982933008006",
+    "foodTypes": [
+      "☕ coffee"
+    ],
+    "keywords": [
+      "coffee"
+    ],
+    "description": "Stop by for coffee and real estate guidance! We will be answering questions about buying, selling, property taxes, and down payment programs"
+  },
+  {
+    "id": "eventbrite-ad372e6dcb",
+    "source": "Eventbrite",
+    "title": "Mindspace Open House | San Francisco Premium Coworking",
+    "venue": "Mindspace Coworking San Francisco",
+    "lat": 37.7895414,
+    "lng": -122.4003752,
+    "start": "2026-03-26T09:00:00-07:00",
+    "end": "2026-10-22T17:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/mindspace-open-house-san-francisco-premium-coworking-tickets-1984501737117",
+    "foodTypes": [
+      "☕ coffee"
+    ],
+    "keywords": [
+      "coffee"
+    ],
+    "description": "Experience premium coworking + networking on the last Thursday of the month. Drop in, explore our space, meet our community."
+  },
+  {
+    "id": "eventbrite-ddacd6da9a",
+    "source": "Eventbrite",
+    "title": "San Francisco Tech Mixer and Social (Tech / AI / Data / IT) â¨",
+    "venue": "Woodbury",
+    "lat": 37.77923,
+    "lng": -122.3956,
+    "start": "2026-04-10T18:00:00-07:00",
+    "end": "2026-12-25T21:00:00-08:00",
+    "url": "https://www.eventbrite.com/e/san-francisco-tech-mixer-and-social-tech-ai-data-it-tickets-1986013627221",
+    "foodTypes": [
+      "🥤 drinks"
+    ],
+    "keywords": [
+      "drinks"
+    ],
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech"
+  },
+  {
+    "id": "luma-66837b5676",
+    "source": "Luma",
+    "title": "AI Meets Climate Adaptation: Unlocking Resilience Across Assets",
+    "venue": "101 Mission St",
+    "lat": 37.7922,
+    "lng": -122.39414819999998,
+    "start": "2026-04-22T08:00:00.000-07:00",
+    "end": "2026-04-22T10:00:00.000-07:00",
+    "url": "https://luma.com/7kwlhhki?utm_source=cv-events&utm_medium=cerebralvalley",
+    "foodTypes": [
+      "🥐 breakfast"
+    ],
+    "keywords": [
+      "breakfast"
+    ],
+    "description": "Join us for a breakfast during Climate Tech week organized by Cathay Innovation around AI Meets Climate Adaptation: Unlocking Resilience Across Assets.\nAs climate risks intensify, adaptation is rapidly emerging as the next frontier of climate tech—and AI is becoming a critical enabler. From wildfire prediction and grid resilience to insurance, infrastructure, and natural capital, a new wave of startups is redefining how we anticipate and respond to physical climate risks.\nThis session brings tog"
+  },
+  {
+    "id": "luma-012f5b6e55",
+    "source": "Luma",
+    "title": "The Sustainable Data Center Power Stack",
+    "venue": "Mind the Bridge",
+    "lat": 37.7745604,
+    "lng": -122.39847379999999,
+    "start": "2026-04-22T08:30:00.000-07:00",
+    "end": "2026-04-22T12:00:00.000-07:00",
+    "url": "https://luma.com/p3ireb7l?utm_source=cv-events&utm_medium=cerebralvalley",
+    "foodTypes": [
+      "🥤 drinks"
+    ],
+    "keywords": [
+      "drinks"
+    ],
+    "description": "Join us during San Francisco Climate Week for a high-level gathering co-hosted by Noon Energy and Mind the Bridge, bringing together the leaders building the next-generation energy stack powering AI infrastructure.\nAs AI scales, data centers are rapidly becoming the world’s fastest deployment platform for new energy systems, forcing a fundamental rethink of how we generate, store, and operate power across the grid and beyond. For the first time in decades, AI is forcing a ground-up rearchitectur"
+  },
+  {
+    "id": "luma-7ab7eee8ab",
+    "source": "Luma",
+    "title": "UNLOCK 2026 - AI Science: Cutting Through the Hype",
+    "venue": "San Francisco, CA",
+    "lat": 37.785,
+    "lng": -122.4025,
+    "start": "2026-04-22T09:00:00.000-07:00",
+    "end": "2026-04-22T18:00:00.000-07:00",
+    "url": "https://lu.ma/unlock2026",
+    "foodTypes": [
+      "🥗 lunch",
+      "🥐 breakfast",
+      "🍺 happy hour"
+    ],
+    "keywords": [
+      "lunch",
+      "breakfast",
+      "happy hour"
+    ],
+    "description": "We are officially SOLD OUT. Any registration is adds you to the waitlist pending approval.\nUNLOCK is a one-day summit on April 22, 2026 in San Francisco, focused on how AI is changing drug discovery and life sciences.\nFeaturing talks and panels from:\nAviv Regev, EVP Research & Early Development, Genentech\nJorge Reis-Filho, Chief of AI for Science Innovation, AstraZeneca\nPayal Sheth, SVP Therapeutic Discovery Sciences, Bristol Myers Squibb\nSarah Nam, VP AI Strategy & Partnerships, AbbVie\nJonah Co"
+  },
+  {
+    "id": "luma-e5c4263b72",
+    "source": "Luma",
+    "title": "From Hype to Impact: How AI Is Accelerating Climate Solutions",
+    "venue": "San Francisco, California",
+    "lat": 37.795,
+    "lng": -122.3975,
+    "start": "2026-04-22T09:00:00.000-07:00",
+    "end": "2026-04-22T11:00:00.000-07:00",
+    "url": "https://luma.com/uonzqbe3?utm_source=cv-events&utm_medium=cerebralvalley",
+    "foodTypes": [
+      "🥤 refreshments"
+    ],
+    "keywords": [
+      "refreshments"
+    ],
+    "description": "As leaders from across the climate ecosystem gather in San Francisco, join ProspectSV and Cooley for a focused conversation on AI’s role in climate solutions – where it’s delivering results today and what it will take to scale.\n\nAI is influencing how climate technologies are built, deployed and financed, from energy efficiency and sustainable materials to agriculture, infrastructure and climate resilience. This discussion will look at the current state of real-world impact, how founders and inve"
+  },
+  {
+    "id": "luma-91a57a2e31",
+    "source": "Luma",
+    "title": "AI for Good: In Climate, Health and Investing",
+    "venue": "110 The Embarcadero",
+    "lat": 37.7932568,
+    "lng": -122.3926127,
+    "start": "2026-04-22T13:00:00.000-07:00",
+    "end": "2026-04-22T14:30:00.000-07:00",
+    "url": "https://lu.ma/3hzitlub",
+    "foodTypes": [
+      "🍱 food",
+      "🍷 wine",
+      "🎁 complimentary"
+    ],
+    "keywords": [
+      "food",
+      "wine",
+      "complimentary"
+    ],
+    "description": "When should artificial intelligence supplant human intelligence? And when should human intelligence lead? For climate action, for impacts on health, for investing and portfolios, where can AI tools multiply productivity—and what situations cause a quality assurance minefield?\nLearn from innovators around the world (from Europe to Oceania to the Americas) when and how AI tools bring new value, expand audiences—and where human intelligence and empathy is still required, and how we all can benefit."
+  },
+  {
+    "id": "luma-15b6bae46b",
+    "source": "Luma",
+    "title": "Sustainable Food & Wine Expo",
+    "venue": "One Market Plaza",
+    "lat": 37.7937188,
+    "lng": -122.39421519999999,
+    "start": "2026-04-22T14:00:00.000-07:00",
+    "end": "2026-04-22T17:30:00.000-07:00",
+    "url": "https://lu.ma/3gzyazmk",
+    "foodTypes": [
+      "🍱 food",
+      "🍷 wine"
+    ],
+    "keywords": [
+      "food",
+      "wine"
+    ],
+    "description": "SHOWCASING THE FULL CIRCULAR STORY OF FOOD\nHosted by Serotonin Creative Consultancy\nJoin us for an inspiring afternoon of tasting, sipping, learning, and mixing it up, where climate-conscious foodies and industry leaders come together to explore the full circle of food—from soil to table and back again. Located in the beautiful One Market Plaza, this event celebrates the innovators and stewards of a more regenerative and resilient food future.\n\nExhibitors Including:\nAlmond Board of California | "
+  },
+  {
+    "id": "luma-ff03de8e88",
+    "source": "Luma",
+    "title": "Builders at the Edge",
+    "venue": "San Francisco, California",
+    "lat": 37.79,
+    "lng": -122.395,
+    "start": "2026-04-22T17:00:00.000-07:00",
+    "end": "2026-04-22T19:00:00.000-07:00",
+    "url": "https://lu.ma/w988u1uh",
+    "foodTypes": [
+      "🍺 happy hour"
+    ],
+    "keywords": [
+      "happy hour"
+    ],
+    "description": "If you're in the early stages of tackling something hard in energy, industry, or infrastructure, we want to meet you.\nBuilders at the Edge is a curated happy hour for early-stage founders and operators building in:\nIndustrial Rebuild: domestic manufacturing, re-shoring, and industrial policy meets new tech\nApplied Robotics: non-general robotics for physical industries at scale\nCritical Supply Chains: minerals, materials, and the infrastructure advanced industries depend on\nResilience Infrastruct"
+  },
+  {
+    "id": "luma-79b1ad2684",
+    "source": "Luma",
+    "title": "California Nuclear: State of Play",
+    "venue": "San Francisco, California",
+    "lat": 37.795,
+    "lng": -122.395,
+    "start": "2026-04-22T17:00:00.000-07:00",
+    "end": "2026-04-22T19:00:00.000-07:00",
+    "url": "https://lu.ma/duw1wd1v",
+    "foodTypes": [
+      "🍸 cocktails"
+    ],
+    "keywords": [
+      "cocktails"
+    ],
+    "description": "An evening briefing on the future of nuclear energy in California, including updates on AB 2647 and the Diablo Canyon extension, followed by cocktails with industry leaders and experts"
+  },
+  {
+    "id": "luma-e988457f1f",
+    "source": "Luma",
+    "title": "GROUNDED: An Earth Day Networking & Dance Party",
+    "venue": "San Francisco, California",
+    "lat": 37.7575,
+    "lng": -122.42,
+    "start": "2026-04-22T18:00:00.000-07:00",
+    "end": "2026-04-23T00:00:00.000-07:00",
+    "url": "https://lu.ma/gbkiq0za",
+    "foodTypes": [
+      "🍷 wine"
+    ],
+    "keywords": [
+      "wine"
+    ],
+    "description": "GROUNDED is an Earth Day celebration during of SF Climate Week paying tribute to the earth and all it bears in shaping Black and Brown joy.\nGROUNDED honors the interlinked nature of the sustainable practices embedded in Black and Brown musical traditions and the dance movements which root us.\nExperience rhythms from the diasporas—Afro House, Amapiano, Afro Desi, Indo House, Soca, Dancehall, Reggaeton, Hip Hop, and R&B—and together we'll let the drumbeats that have sustained our communities for g"
+  },
+  {
+    "id": "luma-78e36437d4",
+    "source": "Luma",
+    "title": "Build After Dark 4/22",
+    "venue": "San Francisco, California",
+    "lat": 37.795,
+    "lng": -122.4,
+    "start": "2026-04-22T18:00:00.000-07:00",
+    "end": "2026-04-22T21:00:00.000-07:00",
+    "url": "https://lu.ma/am3uqq68",
+    "foodTypes": [
+      "🍱 food"
+    ],
+    "keywords": [
+      "food"
+    ],
+    "description": "Build After Dark series\n📍Location: Ramp SF!\nEver had an idea you couldn't build because you \"aren't technical\"?\nBuild After Dark is a 4-week evening series for women in non-technical roles who are ready to build something and finally have the support system to do it. You'll learn to build and ship a real AI project, using tools like Claude Code or Codex, with expert support the whole way through.\nNo CS degree or prior experience required. Just you, your idea, and a room full of people rooting fo"
+  },
+  {
+    "id": "luma-d83f88f868",
+    "source": "Luma",
+    "title": "Year of the Woman Farmer: The leaders shaping the future of climate-smart agriculture",
+    "venue": "San Francisco, California",
+    "lat": 37.775,
+    "lng": -122.45,
+    "start": "2026-04-23T08:30:00.000-07:00",
+    "end": "2026-04-23T10:30:00.000-07:00",
+    "url": "https://lu.ma/2e7ygd3j",
+    "foodTypes": [
+      "🍱 food",
+      "🍷 wine"
+    ],
+    "keywords": [
+      "food",
+      "wine"
+    ],
+    "description": "The United Nations has designated 2026 “International Year of the Woman Farmer,” recognizing women’s vital role in food systems, addressing gender gaps in agriculture, and promoting access to resources. Here in California, leaders are charting a path to a more sustainable, more equitable industry that can serve as a model for other agriculture-rich states and nations.\nJoin this session to learn:\nActionable insights from the recently published Climate Resilience Strategy for California Agricultur"
+  },
+  {
+    "id": "luma-10ed542eff",
+    "source": "Luma",
+    "title": "CDR Connections and Coffee",
+    "venue": "Sightglass Coffee",
+    "lat": 37.7770356,
+    "lng": -122.40845429999997,
+    "start": "2026-04-23T08:30:00.000-07:00",
+    "end": "2026-04-23T10:30:00.000-07:00",
+    "url": "https://lu.ma/4k16c038",
+    "foodTypes": [
+      "🥐 pastries",
+      "☕ coffee"
+    ],
+    "keywords": [
+      "pastries",
+      "coffee"
+    ],
+    "description": "Join Isometric and Supercritical at Sightglass Coffee’s flagship location in SoMA for a relaxed morning of specialty coffee, pastries, and good conversation with the people shaping the carbon removal market: buyers, suppliers, and practitioners in between.\n\nSightglass will be pouring a selection of their coffees throughout the morning, so come ready to taste something new and meet someone worth knowing.\n\nSpaces are limited, please RSVP to save your spot.\nAbout Isometric\nIsometric is the world's "
+  },
+  {
+    "id": "luma-26ea0586b2",
+    "source": "Luma",
+    "title": "Rebuilding Infrastructure: Circular Construction",
+    "venue": "Mind the Bridge",
+    "lat": 37.7745604,
+    "lng": -122.39847379999999,
+    "start": "2026-04-23T08:30:00.000-07:00",
+    "end": "2026-04-23T12:00:00.000-07:00",
+    "url": "https://lu.ma/7us6b34e",
+    "foodTypes": [
+      "🍷 wine"
+    ],
+    "keywords": [
+      "wine"
+    ],
+    "description": "Join us during San Francisco Climate Week for a deep dive into how circularity is reshaping the future of civil infrastructure. Hosted by Mind the Bridge, this session brings together global corporates, startups, and investors driving the transition toward more sustainable, resource-efficient construction.\nAs infrastructure demand accelerates worldwide, the pressure to reduce material waste, emissions, and lifecycle costs is forcing a shift from linear to circular construction models. What was o"
+  },
+  {
+    "id": "luma-0c40ba7f69",
+    "source": "Luma",
+    "title": "Female founders and funders Breakfast & Can AI actually be climate-positive?",
+    "venue": "140 Geary St",
+    "lat": 37.787819,
+    "lng": -122.4057259,
+    "start": "2026-04-23T09:00:00.000-07:00",
+    "end": "2026-04-23T11:30:00.000-07:00",
+    "url": "https://lu.ma/ctabpawt",
+    "foodTypes": [
+      "🥐 breakfast",
+      "☕ coffee"
+    ],
+    "keywords": [
+      "breakfast",
+      "coffee"
+    ],
+    "description": "AI is scaling faster than any technology in history—but not necessarily in service of climate.\nJoin Sisters during San Francisco Climate Week for a candid, two-part panel exploring one critical tension: If AI can optimize everything—why isn’t it solving climate yet?\nAcross two panels, we’ll explore:\nReality: where AI is delivering measurable climate impact—and where it’s not\nScale: why some solutions get funded and deployed while others stall\nResponsibility: who decides what AI gets built—and wh"
+  },
+  {
+    "id": "eventbrite-1133dd082f",
+    "source": "Eventbrite",
+    "title": "Join Biggest Community | Investors Founders | San Francisco | Online",
+    "venue": "California 1",
+    "lat": 37.7931799,
+    "lng": -122.3971689,
+    "start": "2026-04-23T11:00:00-07:00",
+    "end": "2026-04-23T12:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/join-biggest-community-investors-founders-san-francisco-online-tickets-1972260303660",
+    "foodTypes": [
+      "🍽️ dinner"
+    ],
+    "keywords": [
+      "dinner"
+    ],
+    "description": "Are you an Investor or a Founder? Raising funds & want to build connections with others? Yes? This community is for you!"
+  },
+  {
+    "id": "eventbrite-e99941119f",
+    "source": "Eventbrite",
+    "title": "Climate Action Youth Summit 2026",
+    "venue": "Yerba Buena Gardens",
+    "lat": 37.78465,
+    "lng": -122.4023448,
+    "start": "2026-04-24T10:00:00-07:00",
+    "end": "2026-04-24T14:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/climate-action-youth-summit-2026-tickets-1982233176792",
+    "foodTypes": [
+      "🧋 boba"
+    ],
+    "keywords": [
+      "boba"
+    ],
+    "description": "Join the 2026 Climate Action Youth Summit! Discover innovative projects, connect with changemakers, and explore green career opportunities."
+  },
+  {
+    "id": "eventbrite-e336d6cd84",
+    "source": "Eventbrite",
+    "title": "Allsteel Showroom Celebration",
+    "venue": "Allsteel Showroom",
+    "lat": 37.795705,
+    "lng": -122.3984543,
+    "start": "2026-04-29T16:00:00-07:00",
+    "end": "2026-04-29T19:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/allsteel-showroom-celebration-tickets-1985520707886",
+    "foodTypes": [
+      "🍸 cocktails"
+    ],
+    "keywords": [
+      "cocktails"
+    ],
+    "description": "Celebrate our newly refreshed showroom. Join us for music, cocktails, and hors dâoeuvres!"
+  },
+  {
+    "id": "eventbrite-26f6c91c60",
+    "source": "Eventbrite",
+    "title": "Foodwise Volunteer Orientation",
+    "venue": "Ferry Plaza Farmers Market",
+    "lat": 37.7958379,
+    "lng": -122.3937801,
+    "start": "2026-05-02T10:00:00-07:00",
+    "end": "2026-05-02T11:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/foodwise-volunteer-orientation-tickets-1984423579345",
+    "foodTypes": [
+      "🍱 food"
+    ],
+    "keywords": [
+      "food"
+    ],
+    "description": "Give back to your Bay Area community! Support farmers markets, food access, and education by volunteering with Foodwise."
+  },
+  {
+    "id": "meetup-091f5ad472",
+    "source": "Meetup",
+    "title": "SF Game Development Annual BBQ at Golden Gate Park",
+    "venue": "Lindley Meadow",
+    "lat": 37.770999,
+    "lng": -122.489937,
+    "start": "2026-05-03T13:00:00-07:00",
+    "end": "2026-05-03T18:00:00-07:00",
+    "url": "https://www.meetup.com/monthly-sf-game-development-community/events/314046370/",
+    "foodTypes": [
+      "🍖 bbq"
+    ],
+    "keywords": [
+      "bbq"
+    ],
+    "description": "Are you ready to BBQ, bask in the sun (or fog), and hang out with fellow game devs? We’re hosting a special SF Game Development BBQ and potluck at Lindley "
+  },
+  {
+    "id": "eventbrite-11f281502f",
+    "source": "Eventbrite",
+    "title": "San Francisco Eating Disorder Recovery Support Group",
+    "venue": "2500 Market St",
+    "lat": 37.76227180000001,
+    "lng": -122.4364801,
+    "start": "2026-05-03T15:00:00-07:00",
+    "end": "2026-08-02T16:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/san-francisco-eating-disorder-recovery-support-group-tickets-1987332138925",
+    "foodTypes": [
+      "🍱 food"
+    ],
+    "keywords": [
+      "food"
+    ],
+    "description": "A therapist-led space for people in recovery, just beginning to explore recovery, or struggling with food and body and looking for support."
+  },
+  {
+    "id": "eventbrite-d92f4c76ed",
+    "source": "Eventbrite",
+    "title": "Home Buyer Master Class/Fiesta- Arlington TX| Workshop + Dinner (DFW)",
+    "venue": "2400 Garden Park Ct., Arlington, TX 76013",
+    "lat": 37.780138,
+    "lng": -122.394055,
+    "start": "2026-05-04T18:00:00-07:00",
+    "end": "2026-05-04T21:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/home-buyer-master-classfiesta-arlington-tx-workshop-dinner-dfw-tickets-1987687754581",
+    "foodTypes": [
+      "🍽️ dinner"
+    ],
+    "keywords": [
+      "dinner"
+    ],
+    "description": "Fiesta to Front Door : Home Buying Master Class"
+  },
+  {
+    "id": "eventbrite-11d3f19233",
+    "source": "Eventbrite",
+    "title": "SF Nightlife and Entertainment Summit 2026",
+    "venue": "49 S Van Ness Ave",
+    "lat": 37.7744942,
+    "lng": -122.4177911,
+    "start": "2026-05-06T11:00:00-07:00",
+    "end": "2026-05-06T16:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/sf-nightlife-and-entertainment-summit-2026-tickets-1984440412694",
+    "foodTypes": [
+      "🍺 happy hour"
+    ],
+    "keywords": [
+      "happy hour"
+    ],
+    "description": "The SF Nightlife and Entertainment Summit addresses the latest issues facing the nightlife and entertainment community."
+  },
+  {
+    "id": "eventbrite-0624e92252",
+    "source": "Eventbrite",
+    "title": "Building Bridges: Employer Networking Event",
+    "venue": "Beacon Grand A Union Square Hotel",
+    "lat": 37.7890109,
+    "lng": -122.4082857,
+    "start": "2026-05-06T17:00:00-07:00",
+    "end": "2026-05-06T19:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/building-bridges-employer-networking-event-tickets-1986579563953",
+    "foodTypes": [
+      "🍸 cocktails"
+    ],
+    "keywords": [
+      "cocktails"
+    ],
+    "description": "Connecting employers with talented individuals ready to work. \nbuild connections, explore opportunities, and support inclusive employment."
+  },
+  {
+    "id": "luma-905b03dc7f",
+    "source": "Luma",
+    "title": "Camp AI: Agents at Work //San Francisco//",
+    "venue": "Digital Jungle SF",
+    "lat": 37.781715399999996,
+    "lng": -122.40836660000001,
+    "start": "2026-05-07T17:30:00.000-07:00",
+    "end": "2026-05-07T20:30:00.000-07:00",
+    "url": "https://luma.com/camp-ai-may-2026?utm_source=cv-events-featured&utm_medium=cerebralvalley",
+    "foodTypes": [
+      "🍽️ dinner"
+    ],
+    "keywords": [
+      "dinner"
+    ],
+    "description": "We've packed our bags, and we're hitting the road. By popular demand, Camp AI is headed on a world tour 🌎 We're starting at our home base in San Francisco and coming to a city near you. 🌉🗽🗼\nTech founders, builders, and AI enthusiasts are invited to an evening of demos, a panel discussion, and conversations around developing, shipping, and scaling agentic workflows. This is a chance to network with up-and-coming startups and leaders developing AI technologies.\nWhat to expect:\n5:30 pm - 6:00 pm Di"
+  },
+  {
+    "id": "luma-21c4c73fce",
+    "source": "Luma",
+    "title": "The Initial Commit: Day 0 Welcome Party with Bessemer, Zetta & Zero Prime",
+    "venue": "San Francisco, California",
+    "lat": 37.7875,
+    "lng": -122.4025,
+    "start": "2026-05-11T18:00:00.000-07:00",
+    "end": "2026-05-11T21:00:00.000-07:00",
+    "url": "https://luma.com/0o8y6jdb?utm_source=cv-events-featured&utm_medium=cerebralvalley",
+    "foodTypes": [
+      "🥤 drinks"
+    ],
+    "keywords": [
+      "drinks"
+    ],
+    "description": "Start AI Council week off with the people actually building.\nHosted by Bessemer, Zetta, and Zero Prime, this is the official first node of AI Council — where engineers, founders, and operators show up early and talk shop before the conference starts.\nGood drinks. No agenda. Just the people building real AI systems — agents, infra, applied use cases — in one room.\nDay 0. Don't miss the start. ⚡\n\n\nJoin us starting Tuesday, May 12 at the San Francisco Marriott Marquis.\n\nHear from the co-inventor of"
+  },
+  {
+    "id": "meetup-3873151ef5",
+    "source": "Meetup",
+    "title": "SF AI Engineers: May",
+    "venue": "House of AI",
+    "lat": 37.774498,
+    "lng": -122.4031261,
+    "start": "2026-05-13T18:00:00-07:00",
+    "end": "2026-05-13T20:00:00-07:00",
+    "url": "https://www.meetup.com/san-francisco-ai-engineers/events/313345697/",
+    "foodTypes": [
+      "🍕 pizza",
+      "🍺 beer",
+      "🍷 wine"
+    ],
+    "keywords": [
+      "pizza",
+      "beer",
+      "wine"
+    ],
+    "description": "***[RSVP here](https://luma.com/slikak8w)***\nJoin us for the May edition of the San Francisco AI Engineers Tech Talk, a gathering focused exclusively on AI"
+  },
+  {
+    "id": "luma-d98cfaac05",
+    "source": "Luma",
+    "title": "Notion Developer Platform Hackathon",
+    "venue": "San Francisco, California",
+    "lat": 37.7875,
+    "lng": -122.4025,
+    "start": "2026-05-16T09:00:00.000-07:00",
+    "end": "2026-05-17T15:30:00.000-07:00",
+    "url": "https://luma.com/fyuf7?utm_source=cv-events-featured&utm_medium=cerebralvalley",
+    "foodTypes": [
+      "🥗 lunch",
+      "🥐 breakfast",
+      "💻 hackathon meals"
+    ],
+    "keywords": [
+      "lunch",
+      "breakfast",
+      "hackathon"
+    ],
+    "description": "May 16-17: Developer Hackathon in San Francisco.\nJoin the Notion team for two days of hands-on building on our new Developer Platform. We're shipping primitives that let you sync any data source into Notion, give your agent any tool, and trigger workflows from anywhere. No servers, no infra. Just a CLI and your ideas.\nWhether you've been building integrations for years or you're writing your first Worker, this hackathon is designed to get you shipping.\nWhat we’ll build:\nSomething practical that "
+  },
+  {
+    "id": "eventbrite-59245d5d6a",
+    "source": "Eventbrite",
+    "title": "Smart City Cycling 1",
+    "venue": "Presidio Branch Library",
+    "lat": 37.7888554,
+    "lng": -122.4448528,
+    "start": "2026-05-19T17:00:00-07:00",
+    "end": "2026-05-19T18:00:00-07:00",
+    "url": "https://www.eventbrite.com/e/smart-city-cycling-1-tickets-1982832312824",
+    "foodTypes": [
+      "🍜 ramen"
+    ],
+    "keywords": [
+      "ramen"
+    ],
+    "description": "Looking to get comfortable riding in San Francisco? Join us for a presentation covering all you need to know about biking in the city"
+  }
+]
